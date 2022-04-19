@@ -9,9 +9,9 @@ const About = () => {
             <Card className="text-center">
   <Card.Header>Im Raihanuzaman Faruk</Card.Header>
   <Card.Body>
-    <Card.Title>Very Special Photographer In Whole World </Card.Title>
+    <Card.Title>[ Very Special Photographer In Whole World ] </Card.Title>
     <Card.Text>
-    Photographers record events and tells stories using images. They take pictures of people, places, events, and objects. Photographers often specialize in a type of photography. Portrait photographers take pictures of people in studios or on-site at various locations
+    This Photo Clicking By Md Fajle Rabbe Talha She Very HardFull Work For Shoccho Tour & Travels
     </Card.Text>
     <img src={Portfolio} className="card-img-top portF" alt=""/>
     <br />

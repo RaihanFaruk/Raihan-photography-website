@@ -1,44 +1,49 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "name": "Room Setup",
+        "price": "3000",
+        "description": "Photography lighting diagrams made easy with this online tool: use the drop down menus, select objects, drag them, rotate them, change their layers then",
+        "img": "https://i.ibb.co/mXrrv06/1.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "Shooting Condency",
+        "price": "1000",
+        "description": "A film's camera operator, also called a cameraman, is the professional responsible for operating the camera and capturing the film's footage",
+        "img": "https://i.ibb.co/86k5zJS/2.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
+        "name": "Good actress",
         "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "description": "Since its inception, the award has been given to 78 actresses. Katharine Hepburn has won the most award",
+        "img": "https://i.ibb.co/Jkk5MrN/3.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
+        "name": "Ghostly place",
+        "price": "1800",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "img": "https://i.ibb.co/VQ2FRFZ/4.jpg"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "name": "Raw Camera",
+        "price": "1000",
+        "description": " Best professional camera in 2022 · 1. Canon EOS R5",
+        "img": "https://i.ibb.co/TWjb4PB/pexels-cody-king-1208074.jpg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "name": "Best Spot Guide",
+        "price": "3000",
+        "description": "· Be flexible about instance types and Availability Zones · Use EC2 Auto Scaling",
+        "img": "https://i.ibb.co/yqjFY7J/6.jpg"
     }
 ]
+
+
+
+
+
