@@ -22,7 +22,7 @@ const Banner = () => {
                 />
                 <Carousel.Caption>
                     <h3>First Photo Capture Indian Girl</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <p> Find over 100+ of the best free indian girl</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -34,7 +34,7 @@ const Banner = () => {
 
                 <Carousel.Caption>
                     <h3>Second Photo Capture in Coxs Bazar</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Cox's Bazar is a city, fishing port, tourism centre,</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -45,9 +45,9 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Third Photo Capture On Sajek </h3>
+                    <h3>Third Photo Capture On Sajek Valley</h3>
                     <p>
-                        Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                    Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh
                     </p>
                 </Carousel.Caption>
             </Carousel.Item>
